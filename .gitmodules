@@ -1,0 +1,3 @@
+[submodule "themes/fixit"]
+	path = themes/fixit
+	url = git@github.com:drycchen/FixIt.git
