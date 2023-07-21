@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://drycchen.github.io/"
 languageCode = "zh-tw"
 title = "陳彥君的學術園地"
 theme = 'fixit'
