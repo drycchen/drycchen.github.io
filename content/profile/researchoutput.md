@@ -4,7 +4,7 @@ date: 2023-07-21T17:36:32+08:00
 draft: false
 ---
 
-## 期刊論文 /Journal Publications/
+# 期刊論文 /Journal Publications/
 
 - Yen-Chun Chen, Todd Arnold, Ping-Yu Liu, & Chun-Yao Huang (2023), "Understanding the Role of Entrepreneurial Orientation in Creating Ambidextrous Competitive Advantage: A Comparative-Design, Longitudinal Study," European Journal of Marketing, 57(1), 89-124   (SSCI, 國科會管理二學門推薦期刊, ABDC: A*, ABS: 3). https://www.emerald.com/insight/content/doi/10.1108/EJM-08-2021-0661/full/html
 - Yen-Chun Chen & Todd Arnold (2022), "Does Alliance Orientation Matter for New Product Success? An Empirical Study of Taiwanese Electronics Firms," European Journal of Marketing, 56(12), 3347-3380  (SSCI, 國科會管理二學門推薦期刊, ABDC: A*, ABS: 3) https://www.emerald.com/insight/content/doi/10.1108/EJM-07-2021-0540/full/html 
@@ -29,7 +29,7 @@ draft: false
 
 ---
 
-## 研討會論文 /Refereed Conference Proceedings/
+# 研討會論文 /Refereed Conference Proceedings/
 
 - Yen-Chun Chen, Hsien-Tung Tsai, & Todd J. Arnold (2019). "Customer Involvement and New Product Performance: The Mediating Role of Marketing and Technological Capabilities", in Proceedings of the 2019 American Marketing Association (AMA) Summer Marketing Educators' Conference, Chicago, IL, U.S.A., August 9-11.
 - Adriana Amaya Rivas, Yen-Chun Chen, & Da-Kai Yang (2019). "Entrepreneurial and Alliance Orientation Alignment: Implications for New Product Development Process, Program, and Performance", in Proceedings of the 2019 American Marketing Association (AMA) Summer Marketing Educators' Conference, Chicago, IL, U.S.A., August 9-11.
@@ -54,7 +54,7 @@ draft: false
 
 ---
 
-## 教學個案 /Case Study/
+# 教學個案 /Case Study/
 
 - 黃俊堯、陳彥君、柳秉佑，(2021)，[吉品養生的創業與品牌成長之路]，管理教學個案，臺灣大學管理學院。
 - 陳忠仁、陳彥君、徐哲彥，(2017)，[台灣娛樂文創領頭羊:華研國際的創新變革]，管理教學個案，臺灣大學管理學院。
