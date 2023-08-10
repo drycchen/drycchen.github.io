@@ -17,7 +17,7 @@ draft: false
 
     - Facebook: https://www.facebook.com/bluekikochen/
 
-    - NTNU : https://www.mgt.ntnu.edu.tw/%E9%99%B3%E5%BD%A5%E5%90%9B
+    - NTNU : https://www.gbs.ntnu.edu.tw/%E9%99%B3%E5%BD%A5%E5%90%9B
 
 ---
 
